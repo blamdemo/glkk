@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "ghjgjhg"
+  description: "hg"
+  annotations:
+    github.com/project-slug: blamdemo/glkk
+    backstage.io/techdocs-ref: url:https://github.com/blamdemo/glkk
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "oioi"
